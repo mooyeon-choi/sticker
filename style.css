@@ -1,0 +1,22 @@
+body {
+    background-color: #52accc;
+}
+
+.sticker {
+    position: relative;
+    width: 180px;
+    height: 180px;
+    margin: 50px;
+}
+
+.example-1 .sticker-img {
+    background-image: url(heroes-2.png);
+}
+
+.example-2 .sticker-img {
+    background-color: #ff4a85;
+}
+
+.example-2 .sticker-shadow {
+    opacity: 0.6;
+}
